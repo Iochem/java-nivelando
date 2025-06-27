@@ -1,4 +1,4 @@
-package DESAFIOS_INTERMEDIARIO;
+package desafios_intermediarios;
 
 import java.util.Scanner;
 
