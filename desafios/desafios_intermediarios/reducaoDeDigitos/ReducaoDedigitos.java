@@ -1,4 +1,4 @@
-package desafios_intermediarios;
+package desafios_intermediarios.reducaoDeDigitos;
 
 import java.util.Scanner;
 

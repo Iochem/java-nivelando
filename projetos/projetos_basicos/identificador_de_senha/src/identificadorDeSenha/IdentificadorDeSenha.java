@@ -1,4 +1,4 @@
-package projetos_basicos.Identificador_de_senha.src.identificadorDeSenha;
+package projetos_basicos.identificador_de_senha.src.identificadorDeSenha;
 
 //Armazenador e identificador de senha, só pode errar a senha correta 5 vezes
 //Código com tratamento de exceções através do try e catch.

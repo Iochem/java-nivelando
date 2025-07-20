@@ -1,4 +1,4 @@
-package desafios_intermediarios;
+package desafios_intermediarios.buscaBinaria;
 
 import java.util.Scanner;
 
