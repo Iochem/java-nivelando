@@ -26,10 +26,12 @@ O programa realiza a **busca binária** de um número informado pelo usuário de
 - **Repetição** com `while` até a condição de parada ser satisfeita
 - **Matemática aplicada**: cálculo da **raiz digital**
 - **Construção de lógica** para redução numérica
+
 ### Descrição
 
 O usuário digita um número inteiro positivo, e o programa realiza a soma repetida dos dígitos desse número até que reste apenas um único dígito.
 Esse processo é conhecido como raiz digital, e é usado, por exemplo, como verificação de erros em sistemas numéricos (como ISBNs, códigos de barras etc).
+
 ---
 
 ## 📌 Desafio 3 - Validador CPF
