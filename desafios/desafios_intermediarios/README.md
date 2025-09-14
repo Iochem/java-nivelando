@@ -18,7 +18,7 @@ O programa realiza a **busca binária** de um número informado pelo usuário de
 
 ---
 
-# 📌 Desafio 2 - Redução de Dígitos (Raiz Digital)
+## 📌 Desafio 2 - Redução de Dígitos (Raiz Digital)
 
 ### Conceitos Abordados/
 - **Manipulação de Strings** e conversão de tipos
