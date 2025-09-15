@@ -1,4 +1,4 @@
-package desafios_avançados.optionalStreams;
+package desafios_avancados.optionalstreams;
 
 import java.time.LocalDate;
 import java.time.LocalTime;

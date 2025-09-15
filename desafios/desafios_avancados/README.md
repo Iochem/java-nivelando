@@ -2,7 +2,7 @@
 
 Este repositório contém **desafios práticos de nível avançado em Java**, desenvolvidos para treinar conceitos avançados e boas práticas, sem a necessidade de criar uma aplicação completa.
 
-## 📌 Desafio 1 - Busca Binária
+## 📌 Desafio 1 - Optional e Streams
 
 ### Conceitos Abordados
 - **Optional** : uso de `map`, `ifPresent`, `orElse` para evitar `null`.
