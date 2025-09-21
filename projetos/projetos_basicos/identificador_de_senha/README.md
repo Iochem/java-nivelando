@@ -4,22 +4,22 @@ Este projeto é um identificador e verificador de senha desenvolvido em Java. O 
 
 ## Funcionalidades
 
-- ✅ Armazena uma senha numérica definida pelo usuário  
-- ✅ Solicita a senha até o usuário acertar ou esgotar 5 tentativas  
-- ✅ Exibe mensagens personalizadas em caso de erro  
-- ✅ Utiliza `try/catch` para evitar exceções ao digitar dados inválidos
+-  Armazena uma senha numérica definida pelo usuário  
+-  Solicita a senha até o usuário acertar ou esgotar 5 tentativas  
+-  Exibe mensagens personalizadas em caso de erro  
+-  Utiliza `try/catch` para evitar exceções ao digitar dados inválidos
 
-## Tecnologias e conceitos ustilizados
 
-- Java 17+
-- `Scanner` para entrada de dados
-- `try/catch` para tratamento de exceções
+## 📚 Conceitos Utilizados
 
-## Como executar
+- **Entrada de dados com Scanner**
+- **Laços de repetição** (while e for)
+- **Tratamento de exceções** (try/catch)
+- **Manipulação de fluxo de execução**
+- **Tipos primitivos e variáveis**
 
-1. Clone o repositório ou copie o código `IdentificadorDeSenha.java`
-2. Compile e execute com um terminal ou no VS Code:
 
-```bash
-javac IdentificadorDeSenha.java
-java IdentificadorDeSenha
+## Tecnologias 
+
+- **Java 17+**
+

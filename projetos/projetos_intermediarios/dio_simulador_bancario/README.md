@@ -2,18 +2,6 @@
 
 Este repositório contém a implementação de um **sistema bancário simples** utilizando **Java e Programação Orientada a Objetos (POO)**. O projeto foi desenvolvido como parte de um **desafio de projeto prático da DIO (Digital Innovation One)**, com o objetivo de reforçar os conceitos fundamentais da POO em um contexto realista.
 
----
-
-## 🧠 Objetivo
-
-Simular o funcionamento de um **banco digital** com contas correntes e poupança, aplicando os pilares da POO:
-
-- Abstração
-- Encapsulamento
-- Herança
-- Polimorfismo
-
----
 
 ## 🚀 Funcionalidades
 
@@ -25,7 +13,7 @@ Simular o funcionamento de um **banco digital** com contas correntes e poupança
 -  Simular **limites de operações** (valor máximo e número de transferências)
 -  Aplicar **juros** em caso de saldo negativo (cheque especial)
 
----
+
 ## 📚 Conceitos Utilizados
 
 -  **POO em Java** (classes, herança, sobrescrita, polimorfismo)
@@ -33,7 +21,7 @@ Simular o funcionamento de um **banco digital** com contas correntes e poupança
 -  **Validações de regra de negócio**
 -  **Interação via terminal (Scanner)**
 
----
+
 
 ## ⚙️ Regras de Negócio Implementadas
 
@@ -49,4 +37,7 @@ Simular o funcionamento de um **banco digital** com contas correntes e poupança
 - Limite de **3 transferências por execução**
 - Valor máximo por transferência: **R$2000**
 
----
+## 🛠️ Tecnologias utilizadas
+
+-  **Java 17+**
+- Versão recomendada: **Java 17+**

@@ -2,7 +2,7 @@
 
 Projeto intermediário desenvolvido em **Java** que que simula um chatbot básico. Ele interage com o usuário através de mensagens no console, utilizando respostas pré-definidas.
 
----
+
 
 ## 🚀 Funcionalidades
 
@@ -12,7 +12,7 @@ Projeto intermediário desenvolvido em **Java** que que simula um chatbot básic
 -  Encerramento da execução quando o usuário se despede
 -  Tratamento de variações de texto (ex.: "oiiiii" ainda é reconhecido como "oi")
 
----
+
 ## 📚 Conceitos Utilizados
 
 - **Entrada de dados**
@@ -20,8 +20,9 @@ Projeto intermediário desenvolvido em **Java** que que simula um chatbot básic
 - **Estruturas de decisão**
 - **Manipulação de strings**
 - **Controle de Fluxo**
----
+
 
 ## 🛠️ Tecnologias utilizadas
 
 -  **Java 17+**
+- Versão recomendada: **Java 17+**
