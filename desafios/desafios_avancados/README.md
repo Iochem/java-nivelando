@@ -27,3 +27,16 @@ Praticar Optional + Streams em uma lista de horários, com manipulação de disp
 ### Descrição
 
 O desafio consiste em processar uma lista de clientes e identificar aqueles elegíveis para uma promoção, treinando funções de alta ordem.
+
+## 📌 Desafio 3 - Ordenações Encadeadas
+
+### Conceitos Abordados
+- **Comparator.comparing** : comparação baseada em atributos de objetos.
+- **thenComparing** : encadeamento de critérios para desempate.
+- **Comparator.comparingInt** : comparação otimizada para tipos primitivos.
+- **Streams + sorted** : ordenação fluente de coleções com expressividade.
+- **Programação funcional** : uso de `lambdas` e `method references` (::) para deixar o código mais limpo.
+
+### Descrição
+
+Praticar ordenação de listas em memória utilizando Comparator e Streams, explorando critérios encadeados com thenComparing, ordenações crescentes e decrescentes, além de comparação otimizada para tipos primitivos com comparingInt.
