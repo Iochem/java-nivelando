@@ -14,3 +14,16 @@ Este repositório contém **desafios práticos de nível avançado em Java**, de
 
 Praticar Optional + Streams em uma lista de horários, com manipulação de disponibilidade de forma avançada, mas em memória.
 
+
+## 📌 Desafio 2 - Funções de Alta Ordem
+
+### Conceitos Abordados
+- **Predicate<T>** : Testar condições sobre objetos usando `.test(c)`.
+- **Function<T, R>** :Transformar valores usando `.apply(c)` e `toUpperCase()`.
+- **Consumer<T>** : Executar ações sobre objetos usando `.accept()`.
+- **Programação funcional** :  separar lógica de teste, transformação e ação em funções independentes, aumentando legibilidade e modularidade.
+- **Manipulação de coleções** : percorrer e aplicar funções sobre listas de objetos em memória (`ArrayList<Client>`).
+
+### Descrição
+
+O desafio consiste em processar uma lista de clientes e identificar aqueles elegíveis para uma promoção, treinando funções de alta ordem.
