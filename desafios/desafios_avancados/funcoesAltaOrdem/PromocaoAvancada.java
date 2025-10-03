@@ -1,12 +1,13 @@
 package desafios_avancados.funcoesAltaOrdem;
 
 import java.util.List;
+import java.util.Map;
 import java.util.function.Consumer;
 import java.util.function.Function;
 import java.util.function.Predicate;
 
 public class PromocaoAvancada {
-    public void processarClientes(List<Cliente> clientes){
+    public void processarClientes(Map<String, Cliente> clientesMap){
 
         // Filtra os clientes ativos e maiores de 18 anos
         Predicate<Cliente> elegivel = c -> c.isAtivo() && c.getIdade() >= 18;
@@ -17,15 +18,17 @@ public class PromocaoAvancada {
         // Define ação para enviar promoção
         Consumer<String> promocao = nome -> System.out.println("Enviar promoção para " + nome);
 
+
         // Processa os clientes elegíveis
-        for (Cliente c : clientes){
-            if (elegivel.test(c)){
+        for (Cliente c : clientesMap.values()) {
+            if (elegivel.test(c)) {
                 String nome = nomeMaiusculo.apply(c);
                 promocao.accept(nome);
             }
         }
     }
 }
+
 
 /*
 Conceitos usados:
