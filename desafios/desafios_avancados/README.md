@@ -11,7 +11,6 @@ Este repositório contém **desafios práticos de nível avançado em Java**, de
 - **Manipulação de listas e objetos mutáveis** : Alterar diretamente os objetos dentro da lista
 
 ### Descrição
-
 Praticar Optional + Streams em uma lista de horários, com manipulação de disponibilidade de forma avançada, mas em memória.
 
 
@@ -25,7 +24,6 @@ Praticar Optional + Streams em uma lista de horários, com manipulação de disp
 - **Manipulação de coleções** : percorrer e aplicar funções sobre listas de objetos em memória (`ArrayList<Client>`).
 
 ### Descrição
-
 O desafio consiste em processar uma lista de clientes e identificar aqueles elegíveis para uma promoção, treinando funções de alta ordem.
 
 ## 📌 Desafio 3 - Ordenações Encadeadas
@@ -38,5 +36,16 @@ O desafio consiste em processar uma lista de clientes e identificar aqueles eleg
 - **Programação funcional** : uso de `lambdas` e `method references` (::) para deixar o código mais limpo.
 
 ### Descrição
-
 Praticar ordenação de listas em memória utilizando Comparator e Streams, explorando critérios encadeados com thenComparing, ordenações crescentes e decrescentes, além de comparação otimizada para tipos primitivos com comparingInt.
+
+## 📌 Desafio 4 - Enum com Polimorfismo
+
+### Conceitos Abordados
+- **Enum**: Estrutura que representa um conjunto fixo de constantes.
+- **Método abstrato**: Define uma assinatura de método que cada constante do enum deve implementar
+- **Pilares de Poo**: Uso de Polimorfismo , para o comportamento das constantes
+- **Classes anônimas implícitas**: Cada constante com comportamento próprio funciona como uma subclasse anônima do enum.
+- **@Override**: Cada constante com comportamento próprio funciona como uma subclasse anônima do enum.
+
+### Descrição
+Praticar Enum avançado com métodos abstratos e polimorfismo, onde cada constante possui seu próprio comportamento para o mesmo método.
